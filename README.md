@@ -1,2 +1,2 @@
-# CS140-Assign02
-Archive of Assignment from CS140: Java Spring 2020
+# -Sem202020-assignment02-
+Sem202020-assignment02 
